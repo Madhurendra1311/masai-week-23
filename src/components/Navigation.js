@@ -8,9 +8,9 @@ import Login from './Login';
 
 
 class Navigation extends React.Component{
-    constructor(props){
-        super(props);
-    }
+    // constructor(props){
+    //     super(props);
+    // }
 
     render(){
         return(
